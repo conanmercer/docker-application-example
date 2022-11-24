@@ -1,1 +1,1 @@
-# docker-application-example
+# An example of how to create a basic Docker application
