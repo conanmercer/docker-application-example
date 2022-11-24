@@ -3,7 +3,7 @@
 This project was used when I created an article titled "Guide to Create Your First Docker Application".
 This project is a basic example of how to create and launch a Docker container.
 
-You can read more about this project, [in my article](urlplaceholder).
+You can read more about this project, [in my article](https://medium.com/@conan.mercer/a-guide-to-creating-your-very-first-docker-application-d4a444b30a65).
 
 ## How to run the Docker Container
 
